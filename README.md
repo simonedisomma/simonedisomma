@@ -1,3 +1,1 @@
-👋 Hi, I’m @simonedisomma  
-👀 I’m mainly interested in Artificial Intelligence and Data\Human interaction  
-⚡ I'm the Head of GenAI Planning & Analytics di SAP. Former CEO of Askdata backed by YC and acquired by SAP
+👋 Hi, I’m @simonedisomma techologist, large-language-model tinkerer, partner at KPMG, former SAP Head of GenAI Planning & Analytics, and repeat startup founder (backed by Y Combinator). I ship (mainly) Python-powered ideas that turn natural language into working products, contribute to open-source NLP tooling, and mentor teams exploring the frontier where research meets real-world impact. Let’s collaborate!
